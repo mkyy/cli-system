@@ -15,4 +15,4 @@ Esse sistema possui uma limitação por causa da API utilizada, o Sheety só ofe
 
     Retorna todas as vendas efetuadas, com id do cliente que efetuou a venda.
 
-E a stack de tecnologias utilizada foi React.js + Javascript.
+Stack de tecnologias utilizadas: React.js + Javascript.
